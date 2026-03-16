@@ -6,7 +6,7 @@ A Python-based tool that identifies US-listed REITs trading below their estimate
  
 Real Estate Investment Trusts publish detailed financial statements that allow estimation of Net Asset Value (NAV) per share. When a REIT's market price trades at a significant discount to estimated NAV — and the discount is not explained by deteriorating fundamentals — this represents a potential value opportunity.
  
-This tool automates the detection of such mispricings across a curated universe of 28 US-listed REITs spanning six sub-sectors.
+This tool automates the detection of such mispricings across a curated universe of 22 US-listed REITs spanning six sub-sectors.
  
 ## Universe
  
