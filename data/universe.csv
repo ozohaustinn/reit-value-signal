@@ -1,0 +1,23 @@
+ticker,name,sub_sector
+AVB,AvalonBay Communities,Residential
+ESS,Essex Property Trust,Residential
+MAA,Mid-America Apartment Communities,Residential
+BXP,BXP Inc,Office
+KRC,Kilroy Realty,Office
+VNO,Vornado Realty Trust,Office
+SLG,SL Green Realty,Office
+PLD,Prologis,Industrial
+EGP,EastGroup Properties,Industrial
+FR,First Industrial Realty Trust,Industrial
+STAG,STAG Industrial,Industrial
+REXR,Rexford Industrial Realty,Industrial
+SPG,Simon Property Group,Retail
+O,Realty Income,Retail
+FRT,Federal Realty Investment Trust,Retail
+BRX,Brixmor Property Group,Retail
+EQIX,Equinix,Data Centers
+DLR,Digital Realty Trust,Data Centers
+IRM,Iron Mountain,Data Centers
+PSA,Public Storage,Self-Storage
+EXR,Extra Space Storage,Self-Storage
+CUBE,CubeSmart,Self-Storage
