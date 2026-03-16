@@ -65,15 +65,6 @@ reit-value-signal/
 - **Market prices:** Yahoo Finance via `yfinance`
 - **Earnings transcripts:** (Phase 6 — AI enhancement layer)
  
-## Setup
- 
-```bash
-git clone https://github.com/YOUR_USERNAME/reit-value-signal.git
-cd reit-value-signal
-python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
-pip install -r requirements.txt
-```
  
 ## Requirements
  
@@ -106,8 +97,5 @@ openpyxl
  
 ## Author
  
-Austin — MSc Finance | Built as a personal trading tool and portfolio project.
+Augustine Ozoemena — MSc Finance | Built as a personal trading tool and portfolio project.
  
-## License
- 
-MIT
